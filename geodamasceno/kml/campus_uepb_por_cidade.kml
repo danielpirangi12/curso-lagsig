@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="campusshp" id="campusshp">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="CD_MUN" type="string"></SimpleField>
+	<SimpleField name="NM_MUN" type="string"></SimpleField>
+	<SimpleField name="SIGLA_UF" type="string"></SimpleField>
+	<SimpleField name="AREA_KM2" type="float"></SimpleField>
+	<SimpleField name="POP" type="float"></SimpleField>
+	<SimpleField name="DENS" type="float"></SimpleField>
+	<SimpleField name="LAT" type="float"></SimpleField>
+	<SimpleField name="LONG_GMS" type="string"></SimpleField>
+	<SimpleField name="LAT_GMS" type="string"></SimpleField>
+	<SimpleField name="LONG" type="string"></SimpleField>
+	<SimpleField name="MESO" type="string"></SimpleField>
+	<SimpleField name="MICRO" type="string"></SimpleField>
+	<SimpleField name="GENTILICO" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="path" type="string"></SimpleField>
+</Schema>
+<Folder><name>campusshp</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#campusshp">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="CD_MUN">2501005</SimpleData>
+		<SimpleData name="NM_MUN">Araruna</SimpleData>
+		<SimpleData name="SIGLA_UF">PB</SimpleData>
+		<SimpleData name="AREA_KM2">246.717000000000013</SimpleData>
+		<SimpleData name="POP">20312</SimpleData>
+		<SimpleData name="DENS">76.829999999999998</SimpleData>
+		<SimpleData name="LAT">-6.524300000000000</SimpleData>
+		<SimpleData name="LONG_GMS">-35º45'14&quot;</SimpleData>
+		<SimpleData name="LAT_GMS">-6º31'27&quot;</SimpleData>
+		<SimpleData name="LONG">-35.7539</SimpleData>
+		<SimpleData name="MESO">Agreste Pa</SimpleData>
+		<SimpleData name="MICRO">Curimataú</SimpleData>
+		<SimpleData name="GENTILICO">Ararunense</SimpleData>
+		<SimpleData name="layer">NM_MUN_Araruna</SimpleData>
+		<SimpleData name="path">C:\Users\damas\OneDrive\2025_1\EAD\MAPAS\NM_MUN_Araruna.gpkg|layername=NM_MUN_Araruna</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.755063900619,-6.52423620050842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#campusshp">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="CD_MUN">2504009</SimpleData>
+		<SimpleData name="NM_MUN">Campina Grande</SimpleData>
+		<SimpleData name="SIGLA_UF">PB</SimpleData>
+		<SimpleData name="AREA_KM2">591.658000000000015</SimpleData>
+		<SimpleData name="POP">409731</SimpleData>
+		<SimpleData name="DENS">648.309999999999945</SimpleData>
+		<SimpleData name="LAT">-7.263480000000000</SimpleData>
+		<SimpleData name="LONG_GMS">-35º57'59&quot;</SimpleData>
+		<SimpleData name="LAT_GMS">-7º15'49&quot;</SimpleData>
+		<SimpleData name="LONG">-35.96636</SimpleData>
+		<SimpleData name="MESO">Agreste Pa</SimpleData>
+		<SimpleData name="MICRO">Campina Gr</SimpleData>
+		<SimpleData name="GENTILICO">Campinense</SimpleData>
+		<SimpleData name="layer">NM_MUN_Campina Grande</SimpleData>
+		<SimpleData name="path">C:\Users\damas\OneDrive\2025_1\EAD\MAPAS\NM_MUN_Campina Grande.gpkg|layername=NM_MUN_Campina Grande</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.9656588712548,-7.2635534309118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#campusshp">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="CD_MUN">2504306</SimpleData>
+		<SimpleData name="NM_MUN">Catolé do Rocha</SimpleData>
+		<SimpleData name="SIGLA_UF">PB</SimpleData>
+		<SimpleData name="AREA_KM2">551.764999999999986</SimpleData>
+		<SimpleData name="POP">30546</SimpleData>
+		<SimpleData name="DENS">52.090000000000003</SimpleData>
+		<SimpleData name="LAT">-6.321050000000000</SimpleData>
+		<SimpleData name="LONG_GMS">-37º42'17&quot;</SimpleData>
+		<SimpleData name="LAT_GMS">-6º19'16&quot;</SimpleData>
+		<SimpleData name="LONG">-37.70471</SimpleData>
+		<SimpleData name="MESO">Sertão Par</SimpleData>
+		<SimpleData name="MICRO">Catolé do</SimpleData>
+		<SimpleData name="GENTILICO">Catoleense</SimpleData>
+		<SimpleData name="layer">NM_MUN_Catolé do Rocha</SimpleData>
+		<SimpleData name="path">C:\Users\damas\OneDrive\2025_1\EAD\MAPAS\NM_MUN_Catolé do Rocha.gpkg|layername=NM_MUN_Catolé do Rocha</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-37.7044693330053,-6.32110429069443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#campusshp">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="CD_MUN">2506301</SimpleData>
+		<SimpleData name="NM_MUN">Guarabira</SimpleData>
+		<SimpleData name="SIGLA_UF">PB</SimpleData>
+		<SimpleData name="AREA_KM2">162.387000000000000</SimpleData>
+		<SimpleData name="POP">58833</SimpleData>
+		<SimpleData name="DENS">333.800000000000011</SimpleData>
+		<SimpleData name="LAT">-6.877600000000000</SimpleData>
+		<SimpleData name="LONG_GMS">-35º26'58&quot;</SimpleData>
+		<SimpleData name="LAT_GMS">-6º52'39&quot;</SimpleData>
+		<SimpleData name="LONG">-35.44957</SimpleData>
+		<SimpleData name="MESO">Agreste Pa</SimpleData>
+		<SimpleData name="MICRO">Guarabira</SimpleData>
+		<SimpleData name="GENTILICO">Guarabirense</SimpleData>
+		<SimpleData name="layer">NM_MUN_Guarabira</SimpleData>
+		<SimpleData name="path">C:\Users\damas\OneDrive\2025_1\EAD\MAPAS\NM_MUN_Guarabira.gpkg|layername=NM_MUN_Guarabira</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.4480152201011,-6.87784796507357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#campusshp">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="CD_MUN">2507507</SimpleData>
+		<SimpleData name="NM_MUN">João Pessoa</SimpleData>
+		<SimpleData name="SIGLA_UF">PB</SimpleData>
+		<SimpleData name="AREA_KM2">210.044000000000011</SimpleData>
+		<SimpleData name="POP">809015</SimpleData>
+		<SimpleData name="DENS">3421.280000000000200</SimpleData>
+		<SimpleData name="LAT">-7.165440000000000</SimpleData>
+		<SimpleData name="LONG_GMS">-34º52'11&quot;</SimpleData>
+		<SimpleData name="LAT_GMS">-7º9'56&quot;</SimpleData>
+		<SimpleData name="LONG">-34.86983</SimpleData>
+		<SimpleData name="MESO">Mata Parai</SimpleData>
+		<SimpleData name="MICRO">João Pesso</SimpleData>
+		<SimpleData name="GENTILICO">Pessoense</SimpleData>
+		<SimpleData name="layer">NM_MUN_João Pessoa</SimpleData>
+		<SimpleData name="path">C:\Users\damas\OneDrive\2025_1\EAD\MAPAS\NM_MUN_João Pessoa.gpkg|layername=NM_MUN_João Pessoa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-34.8695314302033,-7.16546540159683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#campusshp">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="CD_MUN">2508307</SimpleData>
+		<SimpleData name="NM_MUN">Lagoa Seca</SimpleData>
+		<SimpleData name="SIGLA_UF">PB</SimpleData>
+		<SimpleData name="AREA_KM2">108.218999999999994</SimpleData>
+		<SimpleData name="POP">27503</SimpleData>
+		<SimpleData name="DENS">240.729999999999990</SimpleData>
+		<SimpleData name="LAT">-7.146270000000000</SimpleData>
+		<SimpleData name="LONG_GMS">-35º52'0&quot;</SimpleData>
+		<SimpleData name="LAT_GMS">-7º8'47&quot;</SimpleData>
+		<SimpleData name="LONG">-35.86676</SimpleData>
+		<SimpleData name="MESO">Agreste Pa</SimpleData>
+		<SimpleData name="MICRO">Campina Gr</SimpleData>
+		<SimpleData name="GENTILICO">Lagoa-sequense</SimpleData>
+		<SimpleData name="layer">NM_MUN_Lagoa Seca</SimpleData>
+		<SimpleData name="path">C:\Users\damas\OneDrive\2025_1\EAD\MAPAS\NM_MUN_Lagoa Seca.gpkg|layername=NM_MUN_Lagoa Seca</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.8663247222863,-7.14624706795124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#campusshp">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="CD_MUN">2509701</SimpleData>
+		<SimpleData name="NM_MUN">Monteiro</SimpleData>
+		<SimpleData name="SIGLA_UF">PB</SimpleData>
+		<SimpleData name="AREA_KM2">992.620000000000005</SimpleData>
+		<SimpleData name="POP">33222</SimpleData>
+		<SimpleData name="DENS">31.280000000000001</SimpleData>
+		<SimpleData name="LAT">-7.907830000000000</SimpleData>
+		<SimpleData name="LONG_GMS">-37º5'33&quot;</SimpleData>
+		<SimpleData name="LAT_GMS">-7º54'28&quot;</SimpleData>
+		<SimpleData name="LONG">-37.0925</SimpleData>
+		<SimpleData name="MESO">Borborema</SimpleData>
+		<SimpleData name="MICRO">Cariri Oci</SimpleData>
+		<SimpleData name="GENTILICO">Monteirense</SimpleData>
+		<SimpleData name="layer">NM_MUN_Monteiro</SimpleData>
+		<SimpleData name="path">C:\Users\damas\OneDrive\2025_1\EAD\MAPAS\NM_MUN_Monteiro.gpkg|layername=NM_MUN_Monteiro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-37.0917162847672,-7.90775689252566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#campusshp">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="CD_MUN">2510808</SimpleData>
+		<SimpleData name="NM_MUN">Patos</SimpleData>
+		<SimpleData name="SIGLA_UF">PB</SimpleData>
+		<SimpleData name="AREA_KM2">472.891999999999996</SimpleData>
+		<SimpleData name="POP">107605</SimpleData>
+		<SimpleData name="DENS">212.819999999999993</SimpleData>
+		<SimpleData name="LAT">-6.994980000000000</SimpleData>
+		<SimpleData name="LONG_GMS">-37º19'4&quot;</SimpleData>
+		<SimpleData name="LAT_GMS">-6º59'42&quot;</SimpleData>
+		<SimpleData name="LONG">-37.31791</SimpleData>
+		<SimpleData name="MESO">Sertão Par</SimpleData>
+		<SimpleData name="MICRO">Patos</SimpleData>
+		<SimpleData name="GENTILICO">Patoense</SimpleData>
+		<SimpleData name="layer">NM_MUN_Patos</SimpleData>
+		<SimpleData name="path">C:\Users\damas\OneDrive\2025_1\EAD\MAPAS\NM_MUN_Patos.gpkg|layername=NM_MUN_Patos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-37.3168888236791,-6.99548604056049</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
