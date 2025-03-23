@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>campusshp</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Campus II</name>
+      <description><![CDATA[Endereço: Sítio Imbaúba, S/N, Lagoa Seca - PB, 58117-000<br>Link: https://uepb.edu.br/prograd/ensino/campus-ii-lagoa-seca/<br>Contato: +55 83 3366-1297<br>Coordenadas: -7.15392, -35.87078]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Endereço">
+          <value>Sítio Imbaúba, S/N, Lagoa Seca - PB, 58117-000</value>
+        </Data>
+        <Data name="Link">
+          <value>https://uepb.edu.br/prograd/ensino/campus-ii-lagoa-seca/</value>
+        </Data>
+        <Data name="Contato">
+          <value>+55 83 3366-1297</value>
+        </Data>
+        <Data name="Coordenadas">
+          <value>-7.15392, -35.87078</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -35.8707824,-7.153923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campus IV</name>
+      <description><![CDATA[Endereço: Sítio Cajueiro, S/N - Zona Rural, Catolé do Rocha - PB, 58884-000<br>Link: https://uepb.edu.br/prograd/ensino/campus-iv-catole-do-rocha/<br>Contato: <br>Coordenadas: -6.35163, -37.72635]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Endereço">
+          <value>Sítio Cajueiro, S/N - Zona Rural, Catolé do Rocha - PB, 58884-000</value>
+        </Data>
+        <Data name="Link">
+          <value>https://uepb.edu.br/prograd/ensino/campus-iv-catole-do-rocha/</value>
+        </Data>
+        <Data name="Contato">
+          <value/>
+        </Data>
+        <Data name="Coordenadas">
+          <value>-6.35163, -37.72635</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -37.7263564,-6.3516353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campus V</name>
+      <description><![CDATA[Endereço: Rua Horácio Trajano - Cristo Redentor, João Pessoa - PB, 58070-450<br>Link: https://uepb.edu.br/prograd/ensino/campus-v-joao-pessoa/<br>Contato: <br>Coordenadas: -7.15849, -34.87316]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Endereço">
+          <value>Rua Horácio Trajano - Cristo Redentor, João Pessoa - PB, 58070-450</value>
+        </Data>
+        <Data name="Link">
+          <value>https://uepb.edu.br/prograd/ensino/campus-v-joao-pessoa/</value>
+        </Data>
+        <Data name="Contato">
+          <value/>
+        </Data>
+        <Data name="Coordenadas">
+          <value>-7.15849, -34.87316</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -34.8731676,-7.1584913,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campus III</name>
+      <description><![CDATA[Endereço: R. Gov. Antônio Mariz, S/N - Areia Branca, Guarabira - PB, 58200-000<br>Link: https://uepb.edu.br/prograd/ensino/campus-iii-guarabira/<br>Contato: +55 83 99370-1712<br>Coordenadas: -6.86762, -35.49988]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Endereço">
+          <value>R. Gov. Antônio Mariz, S/N - Areia Branca, Guarabira - PB, 58200-000</value>
+        </Data>
+        <Data name="Link">
+          <value>https://uepb.edu.br/prograd/ensino/campus-iii-guarabira/</value>
+        </Data>
+        <Data name="Contato">
+          <value>+55 83 99370-1712</value>
+        </Data>
+        <Data name="Coordenadas">
+          <value>-6.86762, -35.49988</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -35.4998892,-6.8676269,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Câmpus VI</name>
+      <description><![CDATA[Endereço: Monteiro - PB, 58500-000<br>Link: https://uepb.edu.br/prograd/ensino/campus-vi-monteiro/<br>Contato: <br>Coordenadas: -7.90263, -37.11343]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Endereço">
+          <value>Monteiro - PB, 58500-000</value>
+        </Data>
+        <Data name="Link">
+          <value>https://uepb.edu.br/prograd/ensino/campus-vi-monteiro/</value>
+        </Data>
+        <Data name="Contato">
+          <value/>
+        </Data>
+        <Data name="Coordenadas">
+          <value>-7.90263, -37.11343</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -37.1134381,-7.9026368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campus VII</name>
+      <description><![CDATA[Endereço: R. Alfredo Lustosa Cabral, s/n - Salgadinho, Patos - PB, 58706-550<br>Link: https://uepb.edu.br/prograd/ensino/campus-vii-patos/<br>Contato: +55 83 3421-1477<br>Coordenadas: -7.02158, -37.26528]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Endereço">
+          <value>R. Alfredo Lustosa Cabral, s/n - Salgadinho, Patos - PB, 58706-550</value>
+        </Data>
+        <Data name="Link">
+          <value>https://uepb.edu.br/prograd/ensino/campus-vii-patos/</value>
+        </Data>
+        <Data name="Contato">
+          <value>+55 83 3421-1477</value>
+        </Data>
+        <Data name="Coordenadas">
+          <value>-7.02158, -37.26528</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -37.2652818,-7.0215889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campus VIII </name>
+      <description><![CDATA[Endereço: Av. Cel. Pedro Targino, s/n - Centro, Araruna - PB, 58233-000<br>Link: https://uepb.edu.br/prograd/ensino/campus-viii-araruna/<br>Contato: +55 83 3373-1040<br>Coordenadas: -6.5352, -35.73247]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Endereço">
+          <value>Av. Cel. Pedro Targino, s/n - Centro, Araruna - PB, 58233-000</value>
+        </Data>
+        <Data name="Link">
+          <value>https://uepb.edu.br/prograd/ensino/campus-viii-araruna/</value>
+        </Data>
+        <Data name="Contato">
+          <value>+55 83 3373-1040</value>
+        </Data>
+        <Data name="Coordenadas">
+          <value>-6.5352, -35.73247</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -35.7324759,-6.535202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campus I</name>
+      <description><![CDATA[Endereço: R. Baraúnas, 351 - Universitário, Campina Grande - PB, 58429-500<br>Link: https://uepb.edu.br/prograd/ensino/campus-i-campina-grande/<br>Contato: +55 83 3344-5300<br>Coordenadas: -7.2088, -35.91735]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Endereço">
+          <value>R. Baraúnas, 351 - Universitário, Campina Grande - PB, 58429-500</value>
+        </Data>
+        <Data name="Link">
+          <value>https://uepb.edu.br/prograd/ensino/campus-i-campina-grande/</value>
+        </Data>
+        <Data name="Contato">
+          <value>+55 83 3344-5300</value>
+        </Data>
+        <Data name="Coordenadas">
+          <value>-7.2088, -35.91735</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -35.9173583,-7.2088005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
