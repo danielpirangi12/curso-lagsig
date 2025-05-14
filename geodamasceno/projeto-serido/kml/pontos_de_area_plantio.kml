@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="pontos" id="pontos">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="alert_code" type="int"></SimpleField>
+	<SimpleField name="area_ha" type="float"></SimpleField>
+	<SimpleField name="sources" type="string"></SimpleField>
+	<SimpleField name="biomes" type="string"></SimpleField>
+	<SimpleField name="states" type="string"></SimpleField>
+	<SimpleField name="cities" type="string"></SimpleField>
+	<SimpleField name="detected_a" type="string"></SimpleField>
+	<SimpleField name="year_detec" type="int"></SimpleField>
+	<SimpleField name="published_" type="string"></SimpleField>
+	<SimpleField name="image_afte" type="string"></SimpleField>
+	<SimpleField name="image_befo" type="string"></SimpleField>
+	<SimpleField name="deforestat" type="string"></SimpleField>
+	<SimpleField name="status_nam" type="string"></SimpleField>
+	<SimpleField name="lat" type="string"></SimpleField>
+	<SimpleField name="lng" type="string"></SimpleField>
+	<SimpleField name="crossed_sp" type="string"></SimpleField>
+	<SimpleField name="crossed_ru" type="int"></SimpleField>
+	<SimpleField name="vertex_index" type="int"></SimpleField>
+	<SimpleField name="vertex_part" type="int"></SimpleField>
+	<SimpleField name="vertex_part_ring" type="int"></SimpleField>
+	<SimpleField name="vertex_part_index" type="int"></SimpleField>
+	<SimpleField name="distance" type="float"></SimpleField>
+	<SimpleField name="angle" type="float"></SimpleField>
+</Schema>
+<Folder><name>pontos</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">0</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">0</SimpleData>
+		<SimpleData name="distance">0</SimpleData>
+		<SimpleData name="angle">177.270496484639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7763756480648,-7.49749695032794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">1</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">1</SimpleData>
+		<SimpleData name="distance">8.292809805e-05</SimpleData>
+		<SimpleData name="angle">176.913565071469</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7763715203016,-7.49757977563215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">2</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">2</SimpleData>
+		<SimpleData name="distance">0.00123943182725</SimpleData>
+		<SimpleData name="angle">177.283116621226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7763045486669,-7.49873433861259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">3</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">3</SimpleData>
+		<SimpleData name="distance">0.00140574474092</SimpleData>
+		<SimpleData name="angle">178.572261675996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7762984137777,-7.49890053833698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">4</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">4</SimpleData>
+		<SimpleData name="distance">0.00172896892264</SimpleData>
+		<SimpleData name="angle">178.263101775026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7762942308988,-7.49922373545203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">5</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">5</SimpleData>
+		<SimpleData name="distance">0.00258085635526</SimpleData>
+		<SimpleData name="angle">220.124878094177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7762536217281,-7.5000746544218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">6</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">6</SimpleData>
+		<SimpleData name="distance">0.00319597532028</SimpleData>
+		<SimpleData name="angle">262.925750228746</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7768641321889,-7.50014980971652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">7</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">7</SimpleData>
+		<SimpleData name="distance">0.00408604625676</SimpleData>
+		<SimpleData name="angle">302.181892077382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7777473192008,-7.50026029489177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">8</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">8</SimpleData>
+		<SimpleData name="distance">0.00467917132597</SimpleData>
+		<SimpleData name="angle">341.250668915391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7779355760637,-7.49969783893677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">9</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">9</SimpleData>
+		<SimpleData name="distance">0.00497977362591</SimpleData>
+		<SimpleData name="angle">344.563811578582</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7780334079088,-7.49941360193565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">10</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">10</SimpleData>
+		<SimpleData name="distance">0.00522489657409</SimpleData>
+		<SimpleData name="angle">351.326212334035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7780838669204,-7.49917372874442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">11</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">11</SimpleData>
+		<SimpleData name="distance">0.0054354060455</SimpleData>
+		<SimpleData name="angle">354.948165566862</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7781039270779,-7.49896417725281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">12</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">12</SimpleData>
+		<SimpleData name="distance">0.00548123137352</SimpleData>
+		<SimpleData name="angle">3.26918740710664</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7781076304916,-7.49891850181724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">13</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">13</SimpleData>
+		<SimpleData name="distance">0.0055321935098</SimpleData>
+		<SimpleData name="angle">13.1473875187754</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7780977547218,-7.49886850573235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">14</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">14</SimpleData>
+		<SimpleData name="distance">0.00583269852195</SimpleData>
+		<SimpleData name="angle">12.2675556505808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7780193657986,-7.49857840499287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">15</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">15</SimpleData>
+		<SimpleData name="distance">0.00607420413346</SimpleData>
+		<SimpleData name="angle">356.128479247398</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7779798627191,-7.49834015204513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">16</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">16</SimpleData>
+		<SimpleData name="distance">0.00681385414751</SimpleData>
+		<SimpleData name="angle">342.505463176217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7781980555093,-7.49763341726491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">17</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">17</SimpleData>
+		<SimpleData name="distance">0.00686021363767</SimpleData>
+		<SimpleData name="angle">24.668477958336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7782122519285,-7.49758928491837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">18</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">18</SimpleData>
+		<SimpleData name="distance">0.007207790873</SimpleData>
+		<SimpleData name="angle">68.1899093862047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7778919066439,-7.49745441893629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">19</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">19</SimpleData>
+		<SimpleData name="distance">0.00761646704437</SimpleData>
+		<SimpleData name="angle">69.1812007264729</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7775098377976,-7.49730936856655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">20</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">20</SimpleData>
+		<SimpleData name="distance">0.00788528289888</SimpleData>
+		<SimpleData name="angle">71.6798160907063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7772586229019,-7.49721369704608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">21</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">21</SimpleData>
+		<SimpleData name="distance">0.00815404861343</SimpleData>
+		<SimpleData name="angle">78.094958988118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7770000011789,-7.4971405546256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">22</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">22</SimpleData>
+		<SimpleData name="distance">0.00835538406877</SimpleData>
+		<SimpleData name="angle">83.3569924501475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7768006340749,-7.49711247040507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">23</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">23</SimpleData>
+		<SimpleData name="distance">0.00853018275413</SimpleData>
+		<SimpleData name="angle">90.0357698378053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7766265736312,-7.49709642227906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">24</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">24</SimpleData>
+		<SimpleData name="distance">0.00866284677751</SimpleData>
+		<SimpleData name="angle">96.8075648152959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7764944852094,-7.49710876699138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">25</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">25</SimpleData>
+		<SimpleData name="distance">0.00876576237192</SimpleData>
+		<SimpleData name="angle">137.83498699395</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7763926413328,-7.49712358064616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.0719</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+		<SimpleData name="vertex_index">26</SimpleData>
+		<SimpleData name="vertex_part">0</SimpleData>
+		<SimpleData name="vertex_part_ring">0</SimpleData>
+		<SimpleData name="vertex_part_index">26</SimpleData>
+		<SimpleData name="distance">0.00913951856309</SimpleData>
+		<SimpleData name="angle">177.270496484639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7763756480648,-7.49749695032794</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

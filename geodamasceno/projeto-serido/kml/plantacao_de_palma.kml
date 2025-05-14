@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="plantacao_de_palma" id="plantacao_de_palma">
+	<SimpleField name="alert_code" type="int"></SimpleField>
+	<SimpleField name="area_ha" type="float"></SimpleField>
+	<SimpleField name="sources" type="string"></SimpleField>
+	<SimpleField name="biomes" type="string"></SimpleField>
+	<SimpleField name="states" type="string"></SimpleField>
+	<SimpleField name="cities" type="string"></SimpleField>
+	<SimpleField name="detected_a" type="string"></SimpleField>
+	<SimpleField name="year_detec" type="int"></SimpleField>
+	<SimpleField name="published_" type="string"></SimpleField>
+	<SimpleField name="image_afte" type="string"></SimpleField>
+	<SimpleField name="image_befo" type="string"></SimpleField>
+	<SimpleField name="deforestat" type="string"></SimpleField>
+	<SimpleField name="status_nam" type="string"></SimpleField>
+	<SimpleField name="lat" type="string"></SimpleField>
+	<SimpleField name="lng" type="string"></SimpleField>
+	<SimpleField name="crossed_sp" type="string"></SimpleField>
+	<SimpleField name="crossed_ru" type="int"></SimpleField>
+</Schema>
+<Folder><name>plantacao_de_palma</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#plantacao_de_palma">
+		<SimpleData name="alert_code">137350</SimpleData>
+		<SimpleData name="area_ha">5.071900000000000</SimpleData>
+		<SimpleData name="sources">SAD-CAATINGA</SimpleData>
+		<SimpleData name="biomes">Caatinga</SimpleData>
+		<SimpleData name="states">PARAÍBA</SimpleData>
+		<SimpleData name="cities">Aroeiras</SimpleData>
+		<SimpleData name="detected_a">2020-06-01</SimpleData>
+		<SimpleData name="year_detec">2020</SimpleData>
+		<SimpleData name="published_">2020-08-17</SimpleData>
+		<SimpleData name="image_afte">2020-07-04</SimpleData>
+		<SimpleData name="image_befo">2020-03-18</SimpleData>
+		<SimpleData name="deforestat">agriculture</SimpleData>
+		<SimpleData name="status_nam">published</SimpleData>
+		<SimpleData name="lat">-7.498669051988554</SimpleData>
+		<SimpleData name="lng">-35.77711312846501</SimpleData>
+		<SimpleData name="crossed_sp">Semiárido</SimpleData>
+		<SimpleData name="crossed_ru">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-35.7763756480648,-7.49749695032794 -35.7763715203016,-7.49757977563215 -35.7763045486669,-7.49873433861259 -35.7762984137777,-7.49890053833698 -35.7762942308988,-7.49922373545203 -35.7762536217281,-7.5000746544218 -35.7768641321889,-7.50014980971652 -35.7777473192008,-7.50026029489177 -35.7779355760637,-7.49969783893677 -35.7780334079088,-7.49941360193565 -35.7780838669204,-7.49917372874442 -35.7781039270779,-7.49896417725281 -35.7781076304916,-7.49891850181724 -35.7780977547218,-7.49886850573235 -35.7780193657986,-7.49857840499287 -35.7779798627191,-7.49834015204513 -35.7781980555093,-7.49763341726491 -35.7782122519285,-7.49758928491837 -35.7778919066439,-7.49745441893629 -35.7775098377976,-7.49730936856655 -35.7772586229019,-7.49721369704608 -35.7770000011789,-7.4971405546256 -35.7768006340749,-7.49711247040507 -35.7766265736312,-7.49709642227906 -35.7764944852094,-7.49710876699138 -35.7763926413328,-7.49712358064616 -35.7763756480648,-7.49749695032794</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
