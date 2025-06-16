@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="pontos_de_coletaok" id="pontos_de_coletaok">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="x" type="float"></SimpleField>
+	<SimpleField name="y" type="float"></SimpleField>
+	<SimpleField name="Altitude" type="float"></SimpleField>
+	<SimpleField name="Nome" type="string"></SimpleField>
+	<SimpleField name="pH" type="float"></SimpleField>
+	<SimpleField name="Cond Eletr" type="float"></SimpleField>
+	<SimpleField name="STD" type="float"></SimpleField>
+	<SimpleField name="Salinidade" type="float"></SimpleField>
+	<SimpleField name="OD" type="float"></SimpleField>
+	<SimpleField name="Temperatur" type="float"></SimpleField>
+	<SimpleField name="Turbidez" type="float"></SimpleField>
+	<SimpleField name="Data" type="string"></SimpleField>
+</Schema>
+<Folder><name>pontos_de_coletaok</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos_de_coletaok">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="x">-36.3534027572</SimpleData>
+		<SimpleData name="y">-6.4320589441</SimpleData>
+		<SimpleData name="Altitude">407.000</SimpleData>
+		<SimpleData name="Nome">Açude Várzea Grande</SimpleData>
+		<SimpleData name="pH">9.270</SimpleData>
+		<SimpleData name="Cond Eletr">2303.000</SimpleData>
+		<SimpleData name="STD">6121.000</SimpleData>
+		<SimpleData name="Salinidade">0.690</SimpleData>
+		<SimpleData name="OD">9.700</SimpleData>
+		<SimpleData name="Temperatur">28.800</SimpleData>
+		<SimpleData name="Turbidez">26.800</SimpleData>
+		<SimpleData name="Data">2024/12/13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-36.3534027572114,-6.43205894411051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos_de_coletaok">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="x">-36.3819770166</SimpleData>
+		<SimpleData name="y">-6.5599081534</SimpleData>
+		<SimpleData name="Altitude">498.000</SimpleData>
+		<SimpleData name="Nome">Açude Caraibeiras</SimpleData>
+		<SimpleData name="pH">8.110</SimpleData>
+		<SimpleData name="Cond Eletr">397.000</SimpleData>
+		<SimpleData name="STD">196.000</SimpleData>
+		<SimpleData name="Salinidade">0.010</SimpleData>
+		<SimpleData name="OD">7.200</SimpleData>
+		<SimpleData name="Temperatur">29.500</SimpleData>
+		<SimpleData name="Turbidez">2.640</SimpleData>
+		<SimpleData name="Data">2024/12/13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-36.3819770166284,-6.55990815337448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos_de_coletaok">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="x">-36.5997087886</SimpleData>
+		<SimpleData name="y">-6.4194875185</SimpleData>
+		<SimpleData name="Altitude">331.000</SimpleData>
+		<SimpleData name="Nome">Açude Gargalheiras</SimpleData>
+		<SimpleData name="pH">9.170</SimpleData>
+		<SimpleData name="Cond Eletr">1216.000</SimpleData>
+		<SimpleData name="STD">597.000</SimpleData>
+		<SimpleData name="Salinidade">0.060</SimpleData>
+		<SimpleData name="OD">10.600</SimpleData>
+		<SimpleData name="Temperatur">31.600</SimpleData>
+		<SimpleData name="Turbidez">19.500</SimpleData>
+		<SimpleData name="Data">2024/12/13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-36.5997087886167,-6.41948751853683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos_de_coletaok">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="x">-36.6254504005</SimpleData>
+		<SimpleData name="y">-6.6940464585</SimpleData>
+		<SimpleData name="Altitude">292.000</SimpleData>
+		<SimpleData name="Nome">Açude Boqueirão de Parelhas</SimpleData>
+		<SimpleData name="pH">8.000</SimpleData>
+		<SimpleData name="Cond Eletr">2743.000</SimpleData>
+		<SimpleData name="STD">1363.000</SimpleData>
+		<SimpleData name="Salinidade">0.130</SimpleData>
+		<SimpleData name="OD">8.000</SimpleData>
+		<SimpleData name="Temperatur">30.900</SimpleData>
+		<SimpleData name="Turbidez">13.600</SimpleData>
+		<SimpleData name="Data">2024/12/13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-36.6254504004579,-6.69404645851816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos_de_coletaok">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="x">-37.0588901543</SimpleData>
+		<SimpleData name="y">-6.4915978083</SimpleData>
+		<SimpleData name="Altitude">177.000</SimpleData>
+		<SimpleData name="Nome">Açude Itans</SimpleData>
+		<SimpleData name="pH">9.570</SimpleData>
+		<SimpleData name="Cond Eletr">785.000</SimpleData>
+		<SimpleData name="STD">390.000</SimpleData>
+		<SimpleData name="Salinidade">0.030</SimpleData>
+		<SimpleData name="OD">9.100</SimpleData>
+		<SimpleData name="Temperatur">32.300</SimpleData>
+		<SimpleData name="Turbidez">99.400</SimpleData>
+		<SimpleData name="Data">2024/12/13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-37.0588901542909,-6.49159780829352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos_de_coletaok">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="x">-37.0702493712</SimpleData>
+		<SimpleData name="y">-6.9304853163</SimpleData>
+		<SimpleData name="Altitude">261.000</SimpleData>
+		<SimpleData name="Nome">Açude São Mamede</SimpleData>
+		<SimpleData name="pH">8.800</SimpleData>
+		<SimpleData name="Cond Eletr">572.000</SimpleData>
+		<SimpleData name="STD">282.000</SimpleData>
+		<SimpleData name="Salinidade">0.020</SimpleData>
+		<SimpleData name="OD">8.000</SimpleData>
+		<SimpleData name="Temperatur">28.400</SimpleData>
+		<SimpleData name="Turbidez">16.100</SimpleData>
+		<SimpleData name="Data">2024/12/14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-37.0702493712183,-6.93048531631455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pontos_de_coletaok">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="x">-36.9240047194</SimpleData>
+		<SimpleData name="y">-6.8763883918</SimpleData>
+		<SimpleData name="Altitude">294.000</SimpleData>
+		<SimpleData name="Nome">Açude Santa Luzia</SimpleData>
+		<SimpleData name="pH">8.610</SimpleData>
+		<SimpleData name="Cond Eletr">1183.000</SimpleData>
+		<SimpleData name="STD">581.000</SimpleData>
+		<SimpleData name="Salinidade">0.050</SimpleData>
+		<SimpleData name="OD">7.600</SimpleData>
+		<SimpleData name="Temperatur">28.700</SimpleData>
+		<SimpleData name="Turbidez">31.800</SimpleData>
+		<SimpleData name="Data">2024/12/14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-36.9240047194218,-6.87638839181641</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
